@@ -16,7 +16,7 @@ Dr. Shahab Nabavi
 
 | Content                                                                                              | Video link        |
 | ---------------------------------------------------------------------------------------------------- | ----------------- |
-| [Python Review]| [Link] |
+| [Python Review](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/1_Python_Review)| [Link](https://drive.google.com/drive/folders/1ZcJbYCfHTiVLw6T5L7_PjyLei0Ln_SEU?usp=sharing) |
 | [Numpy & Pandas Tutorial] | [Link]|
 | [Linear Regression & Binary Classification]| [Link]|
 | [Introduction to Keras]| [Link]|
