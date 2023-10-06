@@ -11,6 +11,8 @@ Dr. Shahab Nabavi
 ## Current TAs:
 
 - [Alireza Binayian](https://github.com/alireza00bin)
+- [Faeze Sarlakifar](https://github.com/faezesarlakifar)
+- [Nawid Dadkhah](https://github.com/nawidadkhah)
 
 ## Programming labs videos and codes
 
