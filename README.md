@@ -14,6 +14,10 @@ Dr. Shahab Nabavi
 - [Faeze Sarlakifar](https://github.com/faezesarlakifar)
 - [Nawid Dadkhah](https://github.com/nawidadkhah)
 
+## Former TAs ❤️:
+- [Mohammad Hashemi](https://github.com/mohammadhashemii)
+- [Narges Ghasemi](https://github.com/NNargesNN)
+
 ## Programming labs videos and codes
 
 | Content                                                                                              | Video link        |
