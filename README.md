@@ -22,7 +22,7 @@ Dr. Shahab Nabavi
 
 | Content                                                                                              | Video link        |
 | ---------------------------------------------------------------------------------------------------- | ----------------- |
-| [Python Review 1](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/1_Python_Review)| [Link]([https://drive.google.com/drive/folders/1ZcJbYCfHTiVLw6T5L7_PjyLei0Ln_SEU?usp=sharing](https://drive.google.com/file/d/1d7eBB5J0DyTSjW7-s8SbDgcX0rqUBXF_/view?usp=sharing))|
+| [Python Review 1](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/1_Python_Review)| [Link](https://drive.google.com/file/d/1d7eBB5J0DyTSjW7-s8SbDgcX0rqUBXF_/view?usp=sharing)|
 |[Python Review 2](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/2_Python_Review)|[Link](https://drive.google.com/file/d/1-dIJZNvKBwXiZHoOeBaha2IUsjpqUAb0/view?usp=sharing)|
 | [Numpy & Pandas Tutorial] | [Link]|
 | [Linear Regression & Binary Classification]| [Link]|
