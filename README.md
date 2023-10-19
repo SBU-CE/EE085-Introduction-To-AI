@@ -13,6 +13,8 @@ Dr. Shahab Nabavi
 - [Alireza Binayian](https://github.com/alireza00bin)
 - [Faeze Sarlakifar](https://github.com/faezesarlakifar)
 - [Nawid Dadkhah](https://github.com/nawidadkhah)
+- [Negar Honarvar](https://github.com/negarhonarvar)
+- [Mohammad Salehi](https://github.com/madvidd)
 
 ## Former TAs ❤️:
 - [Mohammad Hashemi](https://github.com/mohammadhashemii)
