@@ -32,3 +32,9 @@ Dr. Shahab Nabavi
 | [Linear Regression & Binary Classification] | [Link] |
 | [Introduction to Keras] | [Link] |
 
+## Assignments
+|HW|
+|------|
+| [HW1](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/Practice/Practice1) |
+| [HW2](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/Practice/Practice2) |
+
