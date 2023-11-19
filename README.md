@@ -11,6 +11,7 @@ Dr. Shahab Nabavi
 ## Current TAs:
 
 - [Alireza Binayian](https://github.com/alireza00bin)
+- [Zahra Khotanlou](https://github.com/zkhotanlou)
 - [Faeze Sarlakifar](https://github.com/faezesarlakifar)
 - [Nawid Dadkhah](https://github.com/nawidadkhah)
 - [Negar Honarvar](https://github.com/negarhonarvar)
