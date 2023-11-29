@@ -33,6 +33,7 @@ Dr. Shahab Nabavi
 | [Linear Regression](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/6_Linear_Regression) | [Link](https://drive.google.com/file/d/1B2pRKGXBYu_3hQO2dMhrDrqdF6VwBKiI/view?usp=drive_link) |
 | [Binary Classification](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/7_Logistic_Regression) | [Link](https://drive.google.com/file/d/1hua8gLGbS66pQHZdlJ6vElFzYQQQYSHH/view?usp=drive_link) |
 | [Introduction to Keras] | [Link] |
+| [Evolutionary Algorithms (Genetic)](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/8_Genetic_Algorithm) | [Link](https://drive.google.com/file/d/1ICqYtsFrd3euJnMKqx882ZiqUZc7-U2Y/view?usp=sharing) |
 
 ## Assignments
 |HW|
