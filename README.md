@@ -34,7 +34,7 @@ Dr. Shahab Nabavi
 | [Binary Classification](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/7_Logistic_Regression) | [Link](https://drive.google.com/file/d/1hua8gLGbS66pQHZdlJ6vElFzYQQQYSHH/view?usp=drive_link) |
 | [Scikit-Learn](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/09_Scikit_Learn) | [Link](https://drive.google.com/file/d/1Q205TeTKm05VGNijWtJ3Cqa-cDgpa79V/view?usp=sharing) |
 | [Machine Learning](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/10_ML_Task)|[Link](https://drive.google.com/file/d/1E54ucATfth98Jnc_BS_0PeUzg9PJxCkH/view?usp=sharing)|
-| [Neural Network] (https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/11_Neural_Network)| [Link] (https://drive.google.com/file/d/1M5iDRoAUqF6XxfgfFW7T7JotnaS3RqeK/view?usp=sharing)|
+| [Neural Network](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/11_Neural_Network)| [Link](https://drive.google.com/file/d/1M5iDRoAUqF6XxfgfFW7T7JotnaS3RqeK/view?usp=sharing)|
 | [Evolutionary Algorithms (Genetic)](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/08_Genetic_Algorithm) | [Link](https://drive.google.com/file/d/1ICqYtsFrd3euJnMKqx882ZiqUZc7-U2Y/view?usp=sharing) |
 
 ## Assignments
